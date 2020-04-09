@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/SubPage/Config.qml</file>
+        <file>qml/Component/MoveableItem.qml</file>
+        <file>qml/SubPage/Scene.qml</file>
+        <file>qml/Component/FPS.qml</file>
+        <file>qml/Component/CText.qml</file>
+        <file>qml/Component/CButton.qml</file>
+        <file>qml/SubPage/StartButton.qml</file>
+        <file>qml/SubPage/WinTip.qml</file>
+    </qresource>
+</RCC>
